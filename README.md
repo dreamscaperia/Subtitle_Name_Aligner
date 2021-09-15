@@ -17,6 +17,6 @@ The tool is designed in a non-intrusive way that it makes changes to your files 
 3. copy the tool to the directory discussed above or make it a searchable cmdlet in your system's PATH.
 
 ## Usage
-1. Open a PowerShell terminal and `CD` to the directory. Or choose *File -> Open Windows PowerShell -> Open Windows PowerShell* on top of the Windows Explorer.
+1. Open a PowerShell terminal and `CD` to the directory. Or choose ***File -> Open Windows PowerShell -> Open Windows PowerShell*** on top of the Windows Explorer.
 2. Run this tool `rename-Subtitles.ps1`.
 3. Done.
