@@ -6,7 +6,7 @@ The most media files you torrented wouldn't come with an adorable subtitle (don'
 
 This sucks and the tool will get you out of the trouble.
 
-The tool is designed in a non-intrusive way that it only make changes to your files if it's for 100% sure.
+The tool is designed in a non-intrusive way that it makes changes to your files only if it's for 100% sure.
 
 ## Prerequisites
 1. The media files are named of .mkv suffix. Other suffixes can be supported if you know how to modify the script yourself.
